@@ -35,6 +35,8 @@ Data engineers who prefer configured connectors over hand-written pipelines.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-connection` | A first connection: source, destination, and sync mode |
